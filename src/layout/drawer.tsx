@@ -1,5 +1,5 @@
 import { Drawer } from "antd";
-import userEvent from "@testing-library/user-event";
+
 const App = ({ opened, onClose }) => {
   return (
     <>
